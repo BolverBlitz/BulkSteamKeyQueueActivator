@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "rotating-file-stream": "^3.0.4",
+    "steam-user": "^4.24.3"
+  },
+  "name": "bulksteamkeyqueueactivator",
+  "description": "Activate large amounts of steam keys while you sleep.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Steamkeys"
+  ],
+  "author": "BolverBlitz",
+  "license": "MIT"
+}
